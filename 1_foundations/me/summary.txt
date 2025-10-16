@@ -1,0 +1,91 @@
+
+Faisal Mehmood Awan - Complete Profile
+
+Name: Faisal Mehmood Awan
+Position: AI Engineer at Intellectual Works
+Location: Islamabad, Pakistan
+Email: faisal914awan@gmail.com
+Phone: +92 304 5193554
+Portfolio: https://faisalawa.github.io/FaisalAwan/
+LinkedIn: https://pk.linkedin.com/in/faisal-mehmood-awan-4771a8233
+GitHub: https://github.com/FaisalAwa
+
+Education:
+- Bachelor of Science in Computer Science
+  Air University, Kamra Campus (2020–2024)
+  Graduated with a CGPA of 3.36
+
+- FSc Pre-Engineering
+  Cadet College Swat (2017–2019)
+  Achieved 956 out of 1100 marks
+
+- Matriculation in Science
+  Kamra Educators School (2015–2017)
+  Scored 925 out of 1050 marks
+
+Certifications:
+- Google Data Analytics Professional Certificate
+  Coursera (2023)
+
+- Google Advanced Data Analytics Professional Certificate
+  Coursera (2023)
+
+- Power BI Desktop Specialization
+  Udemy (2024)
+
+- Google Gemini Pro Specialization
+  Udemy (2024)
+
+- Complete Generative AI with Langchain and HuggingFace
+  Udemy (2024)
+
+Technical Skills:
+- Programming Languages: Python, R, C++, Java, C#, JavaScript, HTML, CSS
+- Data Analysis & Visualization: Power BI, Tableau, MS Excel, Exploratory Data Analysis, Statistical Data Analysis
+- Machine Learning & AI: Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI, Retrieval-Augmented Generation (RAG)
+- Web Development: Django, Bootstrap
+
+Professional Experience:
+
+AI Engineer
+Intellectual Works (February 2025 – Present)
+- Developing AI-driven solutions focusing on NLP, Generative AI, and LLMs
+- Building automation workflows using n8n for seamless integration of AI tools
+- Implementing RAG techniques to enhance the performance of AI applications
+
+Data Analyst
+Renegade Furniture Group (May 2024 – September 2024)
+- Conducted data analysis to derive actionable insights for business optimization
+- Utilized statistical tools and techniques to interpret complex datasets
+- Collaborated with cross-functional teams to support data-driven decision-making
+
+Projects & Innovations:
+- AI-Powered Document Processing Workflow:
+  Developed an AI-driven system that automates document processing by integrating tools like OpenAI embeddings and Pinecone vector store, enabling efficient semantic search and data retrieval.
+  [View on LinkedIn](https://www.linkedin.com/posts/faisal-mehmood-awan-4771a8233_nocode-automation-ai-activity-7329524822596542464-iugk?utm_source=chatgpt.com)
+
+- Python to C++ Code Conversion System:
+  Engineered an AI system that converts Python code into optimized C++, achieving performance improvements of up to 60,000 times, leveraging models like GPT-4 and Anthropic Claude.
+  [View on LinkedIn](https://www.linkedin.com/posts/faisal-mehmood-awan-4771a8233_ai-codeoptimization-pythontocpp-activity-7329374179185594368-_0-0?utm_source=chatgpt.com)
+
+- Product Price Prediction Using AI:
+  Built a model that predicts product prices from short descriptions using frontier AI models, outperforming traditional methods with significantly lower prediction errors.
+  [View on LinkedIn](https://www.linkedin.com/posts/faisal-mehmood-awan-4771a8233_ai-machinelearning-priceprediction-activity-7329402427697217536-z3ji?utm_source=chatgpt.com)
+
+GitHub Repositories:
+Faisal Mehmood Awan has contributed to over 60 repositories on GitHub, showcasing his expertise in various domains. Some notable repositories include:
+
+- Crime-Analysis-And-Prediction: An HTML-based project focusing on crime data analysis and prediction.
+- ML-ProphetModel: Implementation of the Prophet machine learning model for forecasting.
+- ML-Time-Series: Time series analysis using machine learning techniques.
+- ML-Training-And-Validation-Loss: Visualization of training and validation loss in machine learning models.
+- ML-tSne: Implementation of t-SNE for dimensionality reduction.
+- PentolLogistics: SCSS-based project related to logistics.
+
+For a complete list of repositories, visit:
+https://github.com/FaisalAwa?tab=repositories
+
+Online Presence:
+- Portfolio: https://faisalawa.github.io/FaisalAwan/
+- LinkedIn: https://pk.linkedin.com/in/faisal-mehmood-awan-4771a8233
+- GitHub: https://github.com/FaisalAwa
