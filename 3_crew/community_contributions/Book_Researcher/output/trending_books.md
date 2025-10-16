@@ -1,0 +1,1 @@
+The above Markdown report lists the trending book titles for 2025 along with their details and genres.
